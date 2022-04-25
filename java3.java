@@ -8,6 +8,7 @@ public class java3 {
 		System.out.println("3.burger");
 		System.out.println("4.dosa");
 		System.out.println("5.daipuri");
+		System.out.println("5.daipuri");
 Scanner.sc= new Scanner(System.in);
 System.out.println("your choice");
 int dish= Sc.nextInt();
